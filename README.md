@@ -8,7 +8,6 @@ Html,Css,Scss ve Javascript kullanılarak geliştirilmiştir.
 
 <h2> ÇALIŞIR HALİNİN EKRAN KAYDI </h2>
 
-![](auıcleSCSS.gif
+![](AUICLE.gif)
 
-)
-# AUICLE
+
